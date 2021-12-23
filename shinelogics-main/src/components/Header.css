@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Estonia&family=PT+Sans&family=Petemoss&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&family=Petemoss&family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montagu+Slab:wght@100&family=PT+Sans&family=Petemoss&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montagu+Slab:wght@100&family=PT+Sans&family=Petemoss&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montagu+Slab:wght@100&family=PT+Sans&family=Petemoss&family=Roboto:wght@100&display=swap');
+.header5 {
+    font-size: 22px;
+    display: flex;
+    align-items: center;
+    background-color: black;
+    color: white;
+    padding: 1px 0 1px 0;
+    top: 0;
+    position: sticky; /* the header dont affect when you are scrolling*/
+    z-index: 2000;
+}
+
+
+/* .header__left  h1{
+     text-align: center;
+     letter-spacing: 1px;
+     padding: 20px 0;
+     font-family: "Montagu Slab", serif;
+     
+} */
+
+.img__logo {
+
+    text-align: center;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: 0 70px 0 0;
+    width: 100%;
+}
+
+.header__right{
+
+    align-items: center;
+    justify-content: space-evenly;
+    margin-left: 25%;
+
+}
+.header__right h4{
+    font-weight: normal;
+    font-size: 18px;
+    cursor: pointer;
+    padding: 20px 0;
+    letter-spacing: 1px;
+    float: right;
+    
+}
+/* .header__right  h4:hover {
+    
+    background-color: indianred; 
+    background-color: rgb(226, 102, 19);
+    color: white; 
+    color: black;
+    padding: 5px 20px;
+    border-radius: 2px;
+    font-size: 18px;
+}   */
+/*
+.header__right h4{
+    font-size: 25x;
+    cursor: pointer;
+    transition: transform 200ms ease-in-out;
+    font-family: "Crimson Text",serif;
+    padding: 20px 0;
+    letter-spacing: 1px;
+
+}
+.header__right  h4:hover {
+    transform: scale(1.09);
+    background-color: indianred;
+    color: white;
+    padding: 5px 20px;
+    border-radius: 2px;
+    font-family: "Crimson Text",serif;
+    font-size: 20px;
+    cursor: pointer;
+}
+*/

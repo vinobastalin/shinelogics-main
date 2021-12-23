@@ -1,0 +1,239 @@
+.formcontainerthird{
+    margin: 15px 0 20px 80px;
+    padding: 20px 20px 0 20px;
+
+   /*  background-color: rgb(92, 153, 163); */
+    border-radius: 20px;
+}
+
+
+.firstpara{
+    position: relative;
+    right: 30px;
+}
+
+.firstpara8{
+    position: relative;
+    right: 20px;
+}
+
+.thirdheadpara{
+    text-align: left;
+}
+
+.thirdpopuppara{
+    font-size: 17px;
+}
+
+.containerhead1{
+    text-align:justify;
+    display: flex;
+    margin: 0 80px 0 0;
+    position: relative;
+    left: 110px; 
+    top: 10px;
+}
+
+.containerhead2{
+    text-align:justify;
+    display: flex;
+    margin: 0 80px 0 0;
+    position: relative;
+    left: 110px; 
+    bottom: 40px;
+}
+
+.inputfield212{
+    margin: 0 40px 0 0;
+    padding: 8px;
+    position: relative;
+    top: 45px;
+
+}
+
+.inputfield222{
+    margin: 0 40px 0 0;
+    padding: 8px;
+    position: relative;
+    left: 19px;
+    top: 45px;
+   
+}
+
+.inputfield232{
+    margin: 0 40px 0 0;
+    padding: 8px;
+    position: relative;
+    left: 36px;
+    top: 45px;
+ 
+}
+
+.inputfield242{
+    margin: 0 40px 0 0;
+    padding: 8px;
+    position: relative;
+    top: 45px;
+    left: 75px;
+   
+}
+
+.para112{
+    flex: 0.2px;
+    position: relative;
+    right: 110px;
+    font-size: 17px;
+    color: rgba(0, 0, 0, 0.534);
+}
+
+.para122{
+   flex: 0.2px;
+   position: relative;
+   right: 84px;
+   font-size: 17px;
+   color: rgba(0, 0, 0, 0.534);
+   
+}
+
+.para132{
+   flex: 0.2px;
+   position: relative;
+   right: 60px;
+   font-size: 17px;
+   color: rgba(0, 0, 0, 0.534);
+   /* margin: 0 0 0 150px; */
+   
+}
+
+.para142{
+   flex: 0.2px;
+   position: relative;
+   right: 30px;
+   font-size: 17px;
+   color: rgba(0, 0, 0, 0.534);
+   /* margin: 0 0 0 150px; */
+   
+}
+
+.firstbutton1{
+    margin: 20px 0 0 0; 
+    position: relative;
+    left: 810px;
+    top: 10px;
+    color: black;
+ }
+
+ .thirdheadpara1{
+     position: relative;
+     top: 10px;
+ }
+
+ 
+.para113{
+    flex: 0.2px;
+    position: relative;
+    right: 110px;
+    font-size: 17px;
+    top: 50px;
+    color: rgba(0, 0, 0, 0.534);
+}
+
+.para123{
+   flex: 0.2px;
+   position: relative;
+   right: 85px;
+   font-size: 17px;
+   top: 50px;
+   color: rgba(0, 0, 0, 0.534);
+}
+
+.para133{
+   flex: 0.2px;
+   position: relative;
+   right: 54px;
+   font-size: 17px;
+   top: 50px;
+   color: rgba(0, 0, 0, 0.534);
+   /* margin: 0 0 0 150px; */
+   
+}
+
+.para143{
+   flex: 0.2px;
+   position: relative;
+   right: 30px;
+   font-size: 17px;
+   top: 50px;
+   color: rgba(0, 0, 0, 0.534);
+   /* margin: 0 0 0 150px; */
+   
+}
+
+
+.inputfield215{
+    margin: 0 40px 0 0;
+    padding: 8px;
+    position: relative;
+    top: 120px;
+
+}
+
+.inputfield225{
+    margin: 0 40px 0 0;
+    padding: 8px;
+    position: relative;
+    left: 19px;
+    top: 120px;
+   
+}
+
+.inputfield235{
+    margin: 0 40px 0 0;
+    padding: 8px;
+    position: relative;
+    left: 36px;
+    top: 120px;
+ 
+}
+
+.inputfield245{
+    margin: 0 40px 0 0;
+    padding: 8px;
+    position: relative;
+    top: 120px;
+    left: 75px;
+   
+}
+
+.firstbutton3{
+    margin: 20px 0 0 0; 
+    position: relative;
+    left: 820px;
+    top: 30px;
+}
+
+.finalbutton12{
+    position: relative;
+    left: 300px;
+    border-radius: 10px;
+    top: 30px;
+}
+
+.finalbutton11{
+    position: relative;
+    left: 400px;
+    border-radius: 10px;
+    top: 20px;
+}
+
+.formcontainer__bd{
+    display: inline-block;
+    position: relative;
+    bottom: 10px;
+ }
+
+ .formcontainer__be{
+    display: inline-block;
+    position: relative;
+    bottom: 10px;
+ }

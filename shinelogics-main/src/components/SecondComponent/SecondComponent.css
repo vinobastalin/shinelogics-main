@@ -1,0 +1,198 @@
+.formcontainersecond{
+    margin: 15px 0 0 80px;
+    padding: 20px 20px 0 20px;
+    width: 88%;
+}
+
+.exphead{
+    margin: 100px 0 0 0;
+}
+
+.inputfield__a{
+    margin: 10px 0 0 40px;
+    padding: 8px;
+}
+
+.formcontainersecond > p{
+    position: relative;
+    right: 480px;
+}
+
+.formcontainersec{
+    margin: 0 750px 0 0;
+}
+
+.formcontainer__b{
+   display: inline-block;
+   position: relative;
+   bottom: 40px;
+}
+
+
+.formcontainer__bc{
+    display: inline-block;
+    position: relative;
+    bottom: 65px;
+ }
+
+.inputfield21{
+    margin: 0 40px 0 0;
+    padding: 8px;
+    position: relative;
+    top: 14px;
+
+}
+
+.inputfield22{
+    margin: 0 40px 0 0;
+    padding: 8px;
+    position: relative;
+    left: 19px;
+    top: 15px;
+}
+
+.inputfield23{
+    margin: 0 40px 0 0;
+    padding: 8px;
+    position: relative;
+    left: 36px;
+    top: 15px;
+ 
+}
+
+.inputfield24{
+    margin: 0 40px 0 0;
+    padding: 8px;
+    position: relative;
+    top: 15px;
+    left: 75px;
+   
+}
+
+.inputfield25{
+    margin: 0 40px 0 0;
+    padding: 8px;
+    position: relative;
+}
+
+.firstbutton{
+   margin: 20px 0 0 0; 
+   position: relative;
+   left: 800px;
+   color: black;
+   bottom: 40px;
+}
+
+.firstbuttons{
+    margin: 20px 0 0 0; 
+    position: relative;
+    left: 800px;
+    color: black;
+    bottom: 65px;
+ }
+
+.finalbutton{
+    position: relative;
+    left: 450px;
+    top: -60px;
+    border-radius: 10px;
+}
+
+.finalbutton1{
+    margin: 0 80px 0 0;
+    position: relative;
+    left: 300px;
+    border-radius: 10px;
+}
+
+.containerhead5{
+    text-align:justify;
+    display: flex;
+    margin: 0 80px 0 0;
+    position: relative;
+    left: 110px; 
+    top: 10px;
+}
+
+.containerhead6{
+    text-align:justify;
+    display: flex;
+    margin: 0 80px 0 0;
+    position: relative;
+    left: 110px; 
+    top: 15px;
+}
+
+ .para11{
+     flex: 0.2px;
+     position: relative;
+     right: 110px;
+     font-size: 17px;
+     color: rgba(0, 0, 0, 0.534);
+}
+
+.para12{
+    flex: 0.2px;
+    position: relative;
+    right: 80px;
+    font-size: 17px;
+    color: rgba(0, 0, 0, 0.534);
+    
+}
+
+.para13{
+    flex: 0.2px;
+    position: relative;
+    right: 55px;
+    font-size: 17px;
+    color: rgba(0, 0, 0, 0.534);
+    /* margin: 0 0 0 150px; */
+    
+}
+
+.para14{
+    flex: 0.2px;
+    position: relative;
+    right: 30px;
+    font-size: 17px;
+    color: rgba(0, 0, 0, 0.534);
+    /* margin: 0 0 0 150px; */
+    
+}
+
+.para15{
+    flex: 0.2px;
+    position: relative;
+    left: 60px;
+    color: rgba(0, 0, 0, 0.534);
+  
+} 
+
+
+
+
+@media screen and (max-width:400px){
+  .formcontainersecond{
+      margin: 0 0 0 0 ;
+  }
+  .para13{
+      visibility: hidden;
+
+  }
+  .para14{
+    visibility: hidden;
+  }
+  .para15{
+    visibility: hidden;
+  }
+  .firstbutton{
+      position: relative;
+      right: 800px;
+  }
+  
+  .formcontainersecond > p{
+      position: relative;
+      right: 480px;
+  
+  }
+}

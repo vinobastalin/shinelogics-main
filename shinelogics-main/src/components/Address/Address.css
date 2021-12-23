@@ -1,0 +1,17 @@
+
+.toolbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+  }
+  .imgh
+  {
+    
+    margin-left: 5%;
+  }
+ .p{
+    margin-top: 1%;
+    font-size: 12px;
+    font-family: 'Alata','Outfit', sans-serif;
+  }
+  

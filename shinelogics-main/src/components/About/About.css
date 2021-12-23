@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&family=Petemoss&family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+.topabout{
+    padding: 40px 0 0 0;
+}
+
+
+.topabout h1{
+    text-align: center;
+}
+
+.topabout__p{
+    margin: 60px 100px 0 100px;
+    justify-content: center;
+    word-spacing: 4px;
+    font-family: 'Inter', sans-serif;
+}
+
+.topabout__align{
+    margin: 80px 0 150px 0;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+
+.topcontainer__align1{
+     flex: 0.3px;
+     border: 2px dotted rgb(114, 97, 97);
+     align-items: center;
+     justify-content: center;
+     height: 90px;
+     margin: 0 100px 0 500px;
+     font-family: 'Poppins', sans-serif;
+     width: 200px;
+     padding: 15px;
+     background-color: white;
+
+}
+
+
+.topcontainer__align2{
+    flex: 0.3px;
+    border: 2px dotted rgb(114, 97, 97);
+    align-items: center;
+    justify-content: center;
+    height: 90px;
+    margin: 0 100px 0 10px;
+    font-family: 'Poppins', sans-serif;
+    padding: 15px;
+    background-color: rgb(102, 206, 206);
+    color: white;
+}
+
+
+.topcontainer__align3{
+    flex: 0.4px;
+    border: 2px dotted rgb(114, 97, 97);
+    align-items: center;
+    justify-content: center;
+    height: 90px;
+    margin: 0 500px 0 0;
+    font-family: 'Poppins', sans-serif;
+    padding: 15px;
+    background-color: black;
+    color: white;
+
+}
+
+
+
+.aboutcontainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 0 0 0;
+    background-color: rgb(218, 210, 210);
+    padding: 120px 0 120px 0;
+}
+
+.aboutcontainer__address{
+    flex: 0.3;
+    margin-left: 50px;
+}
+.aboutcontainer__address h1{
+    padding: 0 200px 0 0;
+}
+
+
+.aboutcontainer__center{
+    flex: 0.3;
+    margin-left: 150px;
+}
+
+.aboutcontainer__social{
+    flex: 0.4;
+}
+
+.aboutcontainer__center h1{
+    margin: 0 0 35px 0;
+    font-weight: normal;
+}
+
+.aboutcontainer__center a{
+    text-decoration: none;
+}
+
+.aboutcontainer__address h1{
+    font-weight: normal;  
+}
+
+
+hr{
+    height: 2px;
+    border-width: 0;
+    color: black;
+    
+}
+
+.icons{
+    display: flex;
+}
+
+.facebookbutton{
+    flex: 0.3px;
+}
+
+
+.instagrambutton{
+    flex: 0.3px;
+
+}
+
+
+.linkedinbutton{
+    flex: 0.4px;
+
+}
+

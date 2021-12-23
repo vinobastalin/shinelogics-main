@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Estonia&family=Montagu+Slab:wght@100&family=PT+Sans&family=Petemoss&display=swap');
+
+.topcontent__container{
+    position:absolute;
+    top: 400px;
+    right:5px;
+}
+
+.topcontent__head{
+    padding: 200px 0 0 60px;
+}
+
+
+.topcontent__head h1{
+    font-size: 48px;
+    font-family: 'Poppins', sans-serif;
+    color: rgba(255, 255, 255, 0.829);
+    
+}
+
+.topcontent__head p{
+    padding: 20px 0 0 0;
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.829);
+    
+}
+
+
+.topcontent__container button {
+    right: 900px;
+    position: relative;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 10px;
+    outline: none;
+    top: 50px;
+}
+
+.topcontent__container button{
+    margin-top: 20px;
+    color: rgba(255, 255, 255, 0.616);
+    border: 1px solid rgba(255, 255, 255, 0.616) !important;
+    background-color: transparent;
+    font-size: 30px;
+    font-weight: 300;
+    cursor: pointer;
+    font-family:-apple-system;
+
+}
+
+.topcontent__container button:hover{
+    color: rgba(255, 255, 255, 0.842);
+}
